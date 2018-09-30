@@ -1,8 +1,8 @@
 ---
 date: '2016-12-01'
-title: 'GoogleAuth Demo'
+title: 'Auth Demo'
 image: ''
-github: 'https://github.com/kelvinkamau/GoogleAuthDemo'
+github: 'https://github.com/kelvinkamau/AuthDemo'
 external: ''
 tech:
   - Java
@@ -10,4 +10,4 @@ tech:
 show: 'true'
 ---
 
-Experimenting with Google's Passwordless login for Android using Firebase Auth. Tinkered with &mdash; GoogleAuth, GithubAuth & FirebaseAuth. 
+Experimenting with Google's Passwordless login for Android using Firebase Auth. Tinkered around with &mdash; GoogleAuth, GithubAuth & FirebaseAuth. 
