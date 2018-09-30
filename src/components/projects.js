@@ -150,7 +150,7 @@ class Projects extends Component {
 
     return (
       <ProjectsContainer>
-        <ProjectsTitle innerRef={el => (this.projects = el)}>Other Projects</ProjectsTitle>
+        <ProjectsTitle innerRef={el => (this.projects = el)}>Open Source Projects</ProjectsTitle>
         <ProjectsGrid>
           <TransitionGroup className="projects">
             {projectsToShow &&

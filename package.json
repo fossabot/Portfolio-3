@@ -1,11 +1,11 @@
 {
   "name": "v4",
-  "description": "Personal Website V4",
+  "description": "Personal Website v2",
   "version": "1.0.0",
-  "author": "Brittany Chiang <chat@kelvinkamau.app>",
+  "author": "Kelvin Kamau <chat@kelvinkamau.app>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/kelvinkamau/v2"
   },
   "keywords": [
     "gatsby"

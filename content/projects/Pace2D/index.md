@@ -1,7 +1,7 @@
 ---
 date: '2017-06-01'
 title: 'Pace2D Game'
-cover: './pace.png'
+image: ''
 github: 'https://github.com/kelvinkamau/Pace2D'
 external: 'https://play.google.com/store/apps/details?id=app.kelvinkamau.pace2d/'
 tech:
@@ -9,6 +9,7 @@ tech:
   - Android
   - 2D Modelling
   - Canvas
+show: 'false'
 ---
 
-A minimalistic game where you control a block to evade the falling obstacles.
+Third iteration of my personal website built with Jekyll and hosted on Github Pages.

@@ -79,12 +79,12 @@ const Footer = () => (
           ))}
       </SocialItemList>
     </SocialContainer>
-    <Copy>Designed &amp; Built by Brittany Chiang</Copy>
+    <Copy>Designed &amp; Built by Kelvin Kamau</Copy>
     <GithubLink
-      href="https://github.com/bchiang7/v4"
+      href="https://github.com/kelvinkamau"
       target="_blank"
       rel="nofollow noopener noreferrer">
-      View Source
+      Me on GitHub
     </GithubLink>
   </FooterContainer>
 );
