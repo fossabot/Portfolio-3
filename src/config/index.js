@@ -6,7 +6,7 @@ module.exports = {
     'Kelvin Kamau, Kelvin, Kamau, kamaucodes, software engineer, front-end engineer, web developer, javascript, android',
   siteUrl: 'https://www.kelvinkamau.app',
   siteLanguage: 'en_US',
-  siteImage: 'https://www.kelvinkamau.app/og.png',
+  siteImage: 'https://www.kelvinkamau.app/og.PNG',
 
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
 
