@@ -11,4 +11,4 @@ tech:
   - Canvas
 ---
 
-A minimalistic game where you control a block to evade the falling obstacles. I'm also using this game to learn Artificial Intelligence & have the block dodge the obstacles without human interaction. <br>The AI idea was inspired by [Olfa Fdhila](http://fdhila.com)
+A minimalistic game where you control a block to evade the falling obstacles. I'm also using this game to learn Artificial Intelligence & have the block dodge the obstacles without human interaction. <br>The AI idea was inspired by [Olfa Fdhila's Snake Game](https://fdhila.com/2018/06/03/1619/).
