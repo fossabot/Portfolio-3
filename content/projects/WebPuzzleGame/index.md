@@ -3,7 +3,7 @@ date: '2017-04-03'
 title: 'WebPuzzleGame'
 image: ''
 github: 'https://github.com/kelvinkamau/WebPuzzleGame/'
-external: ''
+external: 'https://kelvinkamau.github.io/WebPuzzleGame/'
 tech:
   - JavaScript
   - Canvas

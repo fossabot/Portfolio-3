@@ -3,7 +3,7 @@ date: '2018-01-01'
 title: 'tictactoe'
 cover: './ttc.png'
 github: 'https://github.com/kelvinkamau/tictactoe'
-external: 'https://www.kelvinkamau.app/tictactoe/'
+external: 'https://kelvinkamau.github.io/tictactoe/'
 tech:
   - JavaScript
   - PWA

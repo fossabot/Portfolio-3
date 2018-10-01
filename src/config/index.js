@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Kelvin Kamau | Software Engineer',
   siteDescription:
-    'Design-minded software engineer highly-motivated to create mobile and web developer starring elegant designs, an open source hobbyist and a community mentor keen to inspire change-makers.',
+    'Design-minded software engineer keen to create mobile and web developer starring elegant designs, an open source hobbyist and a community mentor keen to inspire change-makers.',
   siteKeywords:
     'Kelvin Kamau, Kelvin, Kamau, kamaucodes, software engineer, front-end engineer, web developer, javascript, android',
   siteUrl: 'https://www.kelvinkamau.app',
