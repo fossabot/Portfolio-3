@@ -79,12 +79,12 @@ const Footer = () => (
           ))}
       </SocialItemList>
     </SocialContainer>
-    <Copy>Made with ❤ in Nairobi.</Copy>
+    <Copy>Handcrafted with ❤ in Nairobi.</Copy>
     <GithubLink
-      href="https://github.com/kelvinkamau"
+      href="https://www.kelvinkamau.app/PrivacyPolicy"
       target="_blank"
       rel="nofollow noopener noreferrer">
-      Me on GitHub
+      Privacy Policy
     </GithubLink>
   </FooterContainer>
 );
