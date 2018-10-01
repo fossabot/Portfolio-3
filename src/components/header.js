@@ -212,7 +212,7 @@ class Header extends Component {
       this.setState({ scrollDirection: 'none' });
     } else if (fromTop > lastScrollTop && fromTop > headerHeight) {
       if (scrollDirection !== 'down') {
-        this.setState({ scrollDirection: 'down' });
+        this.setState({ scrollDirection: 'up' });
       }
     } else if (fromTop + window.innerHeight < document.body.scrollHeight) {
       if (scrollDirection !== 'up') {

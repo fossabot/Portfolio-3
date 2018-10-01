@@ -7,11 +7,9 @@ skills:
   - HTML & CSS
   - NodeJS
   - Gatsby
-  - Android Things IoT
+  - Android Things
   - Firebase
   - Git & GitHub
-  - Golang
-  - Laravel
 ---
 
 Hey there! I'm a software engineer who enjoys working at the intersection of engineering and design. I build excellent websites and mobile apps that provide intuitive, pixel-perfect user interfaces, while also being scalable and efficient under the hood.
