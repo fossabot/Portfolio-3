@@ -1,12 +1,12 @@
 ---
-date: '2018-05-01'
-title: 'Front End Developer'
+date: '2018-08-01'
+title: 'Software Engineer'
 company: 'WezaData'
 location: 'Remote'
-range: 'May - Aug 2018'
+range: 'May 2018 - To Date'
 url: 'https://wezadata.co.ke/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects.
-- Helped solidify the brand direction for [WezaData Website](http://wezadata.co.ke).
-- Interfaced with clients on a monthly basis, providing technological expertise and software training to clients.
+- Helping define solidify the brand direction for [WezaData](http://wezadata.co.ke), the company client's products.
+- Interfacing with clients on a monthly basis, providing technological expertise and software training to clients.

@@ -1,9 +1,9 @@
 ---
-date: '2018-08-01'
+date: '2018-07-01'
 title: 'Product Lead'
 company: 'AfroCabs'
 location: 'Nairobi, KE'
-range: 'Aug 2018 - Present'
+range: 'Aug 2018'
 url: 'https://afrocabs.com/'
 ---
 
