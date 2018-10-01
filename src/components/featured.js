@@ -121,15 +121,16 @@ const ImgContainer = styled.div`
   position: relative;
   z-index: 1;
   border-radius: ${theme.borderRadius};
-  background-color: ${theme.colors.green};
+  background-color: transparent;
   border-radius: 2px;
   grid-column: 6 / -1;
   grid-row: 1 / -1;
   transition: ${theme.transition};
   ${media.tablet`height: 100%;`};
   ${media.thone`
+  background-color: ${theme.colors.green};
     grid-column: 1 / -1;
-    opacity: 0.25;
+    opacity: 0.8;
   `};
   &:hover,
   &:focus {
@@ -151,7 +152,7 @@ const ImgContainer = styled.div`
     bottom: 0;
     z-index: 3;
     transition: ${theme.transition};
-    background-color: ${theme.colors.navy};
+    background-color: transparent;
     mix-blend-mode: screen;
   }
 `;

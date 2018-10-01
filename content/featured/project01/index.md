@@ -8,8 +8,8 @@ tech:
   - Android
   - SQLite
   - Material Design
-  - Firebase
+  - Java
 ---
 
 An elegant, intuitive and hassle-free android app to help users create reminders and get things done promptly.<br>
-500+ downloads
+700+ downloads.

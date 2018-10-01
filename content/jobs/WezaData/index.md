@@ -8,5 +8,5 @@ url: 'https://wezadata.co.ke/'
 ---
 
 - Worked with the developer team to build client websites and e-commerce platforms.
-- Helped solidify the brand direction for wezadata that spans both packaging and website.
+- Helped solidify the brand direction for [WezaData Website](http://wezadata.co.ke).
 - Interfaced with clients on a monthly basis, providing technological expertise.
