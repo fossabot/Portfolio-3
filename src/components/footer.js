@@ -79,7 +79,7 @@ const Footer = () => (
           ))}
       </SocialItemList>
     </SocialContainer>
-    <Copy>Made with ❤ in New York, US</Copy>
+    <Copy>Made with ❤ in Nairobi, KE</Copy>
     <GithubLink
       href="https://github.com/kelvinkamau"
       target="_blank"
