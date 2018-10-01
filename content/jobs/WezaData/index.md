@@ -7,6 +7,6 @@ range: 'May - Aug 2018'
 url: 'https://wezadata.co.ke/'
 ---
 
-- Worked with the developer team to build client websites and e-commerce platforms.
+- Write modern, performant, maintainable code for a diverse array of client and internal projects.
 - Helped solidify the brand direction for [WezaData Website](http://wezadata.co.ke).
-- Interfaced with clients on a monthly basis, providing technological expertise.
+- Interfaced with clients on a monthly basis, providing technological expertise and software training to clients.
