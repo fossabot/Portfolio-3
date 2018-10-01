@@ -6,7 +6,6 @@ import { Link } from 'gatsby';
 import { throttle } from '../utils';
 
 import config from '../config';
-import resume from '../../static/resume.pdf';
 
 import Menu from '../components/menu';
 import { IconLogo } from './icons';
@@ -301,7 +300,10 @@ class Header extends Component {
               {show && (
                 <CSSTransition classNames="fadedown" timeout={3000}>
                   <ResumeButton style={{ transitionDelay: `600ms` }}>
-                    <ResumeLink href={resume} target="_blank" rel="nofollow noopener noreferrer">
+                    <ResumeLink
+                      href="https://github.com/kelvinkamau"
+                      target="_blank"
+                      rel="nofollow noopener noreferrer">
                       GitHub
                     </ResumeLink>
                   </ResumeButton>

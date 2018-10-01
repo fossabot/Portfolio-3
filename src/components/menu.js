@@ -1,11 +1,9 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 
-import resume from '../../static/resume.pdf';
-
 import styled from 'styled-components';
-import { theme, mixins, media, Nav, Ol, A } from '../style';
+import {A, media, mixins, Nav, Ol, theme} from '../style';
 
 const MenuContainer = styled.div`
   position: fixed;
@@ -106,8 +104,11 @@ class Menu extends Component {
                   ))}
               </NavList>
             )}
-            <ResumeLink href={resume} target="_blank" rel="nofollow noopener noreferrer">
-              Resume
+            <ResumeLink
+              href="https://github.com/kelvinkamau"
+              target="_blank"
+              rel="nofollow noopener noreferrer">
+              GitHub
             </ResumeLink>
           </NavLinks>
         </Sidebar>
