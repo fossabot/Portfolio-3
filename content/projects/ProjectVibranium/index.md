@@ -10,4 +10,4 @@ tech:
 show: 'true'
 ---
 
-A web template for DSC Communities in Africa to use to increase visibility of their chapters, access by members & potentials as well as showcase exciting stories.
+A web template for DSC Communities in Africa to use to increase visibility of their chapters, enhance access by members & potential memebers and showcase exciting success stories as well.
