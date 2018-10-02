@@ -81,10 +81,10 @@ const Footer = () => (
     </SocialContainer>
     <Copy>Handcrafted with ❤ in Nairobi.</Copy>
     <GithubLink
-      href="https://buymeacoff.ee/EqeRlzLSc"
+      href="https://kelvinkamau.github.io/PrivacyPolicy"
       target="_blank"
       rel="nofollow noopener noreferrer">
-      Buy Me A Coffee
+      Privacy Policy
     </GithubLink>
   </FooterContainer>
 );
