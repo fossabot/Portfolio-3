@@ -1,6 +1,6 @@
 ---
 date: '2018-07-01'
-title: 'Product Lead'
+title: 'Web Developer'
 company: 'AfroCabs'
 location: 'Nairobi, KE'
 range: 'Aug 2018'
