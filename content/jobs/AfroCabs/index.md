@@ -1,9 +1,9 @@
 ---
-date: '2018-07-01'
+date: '2018-08-01'
 title: 'Web Developer'
 company: 'AfroCabs'
 location: 'Nairobi, KE'
-range: 'Aug 2018'
+range: 'Aug 2018 - To Date'
 url: 'https://afrocabs.com/'
 ---
 
