@@ -79,9 +79,9 @@ const Footer = () => (
           ))}
       </SocialItemList>
     </SocialContainer>
-    <Copy>Handcrafted with ❤ in New York, USA.</Copy>
+    <Copy>Handcrafted with ❤ in Fremont, Nebraska.</Copy>
     <GithubLink
-      href="https://kelvinkamau.github.io/PrivacyPolicy"
+      href="https://www.kelvinkamau.app/PrivacyPolicy"
       target="_blank"
       rel="nofollow noopener noreferrer">
       Privacy Policy
