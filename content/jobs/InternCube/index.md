@@ -1,12 +1,12 @@
 ---
-date: '2018-01-01'
-title: 'Engineering Intern'
+date: '2018-09-01'
+title: 'Web Developer'
 company: 'InternCube'
 location: 'Remote'
-range: 'Jan - Apr 2018'
+range: 'Nov 2018 - To Date'
 url: 'http://interncube.co.ke'
 ---
 
-- Developed and shipped highly interactive web applications backend for InternCube using Laravel
-- Built and shipped the InternCube for Corporate leveraging third-party and internal APIs
-- Contributed extensively to a JavaScript to help increase developer adoption and efficiency
+- Developing and shipping highly interactive web applications with a scalable backend 
+- Building and shipping the InternCube platform for Corporates leveraging internal APIs
+- Contributed extensively to a [JavaScript framework](https://github.com/gatsby/gatsbyjs) to help increase developer adoption and efficiency
