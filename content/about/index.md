@@ -6,10 +6,10 @@ skills:
   - JavaScript(ES6)
   - HTML & CSS
   - NodeJS
-  - Gatsby
+  - GatsbyJS
   - Android Things
-  - Firebase
-  - Git & GitHub
+  - ExpressJS
+  - Kotlin
 ---
 
 I'm a software engineer who enjoys working at the intersection of engineering and design. I build excellent websites and mobile apps that provide intuitive, pixel-perfect user interfaces, while also being scalable and efficient under the hood.
