@@ -4,11 +4,11 @@ avatar: './me.jpg'
 skills:
   - Android Java
   - JavaScript(ES6)
-  - HTML & CSS
+  - Apollo GraphQL
   - NodeJS
-  - GatsbyJS
+  - ReactJS / GatsbyJS
   - Android Things
-  - ExpressJS
+  - HTML5 / CSS
   - Kotlin
 ---
 
