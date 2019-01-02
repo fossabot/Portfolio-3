@@ -1,4 +1,7 @@
 # Getting Started 🚀 
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fd23b58e024b45a0879326bc3722a3b3)](https://app.codacy.com/app/kamaucodes/Portfolio?utm_source=github.com&utm_medium=referral&utm_content=kelvinkamau/Portfolio&utm_campaign=Badge_Grade_Dashboard)
+
 * Install the Gatsby CLI
 
 ```
